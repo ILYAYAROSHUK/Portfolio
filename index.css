@@ -10,7 +10,6 @@ body {
 .about{
   width: 585px;
 }
-
 a.anchor {
   display: block;
   position: relative;
@@ -153,7 +152,7 @@ a.anchor {
   float: left;
   display: inline-block;
   vertical-align: middle;
-  padding: 6% 2%;
+  padding: 20px;
 }
 
 #contact{
