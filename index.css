@@ -12,12 +12,17 @@ body {
 }
 .about{
   width: 585px;
+
 }
 a.anchor {
   display: block;
   position: relative;
   border-top: 50px;
   visibility: hidden;
+}
+.rea{
+  margin-top: 0px;
+min-height: 950px;
 }
 .splash{
   border-top: 50px;
@@ -34,7 +39,7 @@ a.anchor {
 }
 
 #splash{
-  background-image: url(https://raw.githubusercontent.com/hash004/freecodecamp/master/portfolioPage/images/home.jpg);
+  background-image: url(имен-2.jpg);
   background-size: cover;
   background-position: center;
   height: 100%;
@@ -79,6 +84,7 @@ a.anchor {
 
 .thumbnail{
   position: relative;
+
 }
 
 .thumbnail img{
@@ -123,11 +129,11 @@ a.anchor {
 }
 
 #about{
-  background-image: url(https://hdoboi.kiev.ua/images/05.Jun.2019-pejzazh-dorogi-v-gorah-4k.jpg);
+  background-image: url(https://i.redd.it/czrkcq36xiu61.jpg);
   background-position: center;
   background-size: cover;
   height: 100%;
-  padding-bottom: 50px;
+  padding-bottom:50px;
   color: #fff;
 }
 
