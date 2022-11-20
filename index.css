@@ -11,7 +11,8 @@ body {
   border-radius: 25%;
 }
 .about{
-  width: 585px;
+  width: 765px;
+  align-content: center;
 
 }
 a.anchor {
