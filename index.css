@@ -29,6 +29,9 @@ min-height: 950px;
   background-position: center;
   height: 100%;}
 
+.text{
+  font-size:100%
+}
 
 .navbar-brand{
   font-family: "Dancing Script", cursive;
