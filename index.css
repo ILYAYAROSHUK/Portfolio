@@ -12,6 +12,7 @@ body {
 }
 .about{
   width: 585px;
+  font-size: 100%;
 
 }
 a.anchor {
@@ -129,15 +130,9 @@ min-height: 950px;
   display: -ms-flexbox;
   display:         flex;
 }
-
-.about{
-  background-image: url(czrkcq36xiu61.jpg);
-text-align: center;
-}
-
 #about{
+  background-image: url(czrkcq36xiu61.jpg);
   background-position: center;
-  width: auto;
   background-size: cover;
   height: 100%;
   padding-bottom:50px;
