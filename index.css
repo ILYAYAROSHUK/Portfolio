@@ -24,8 +24,9 @@ a.anchor {
 min-height: 950px;
 }
 .splash{
-  border-top: 50px;
-}
+  background-image: url(имен-2.jpg);
+  background-size: cover;
+  background-position: center;}
 
 .navbar-brand{
   font-family: "Dancing Script", cursive;
@@ -38,9 +39,7 @@ min-height: 950px;
 }
 
 #splash{
-  background-image: url(имен-2.jpg);
-  background-size: cover;
-  background-position: center;
+
   height: 100%;
   margin-top: 50px;
   padding-top: 15%;
