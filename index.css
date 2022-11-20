@@ -17,7 +17,7 @@ body {
 a.anchor {
   display: block;
   position: relative;
-  border-top: 50px;
+  border-top: 70px;
   visibility: hidden;
 }
 .rea{
@@ -30,7 +30,8 @@ min-height: 950px;
   height: 100%;}
 
 .text{
-  font-size:100%
+  font-size:100%;
+  padding-top: 15%;
 }
 
 .navbar-brand{
@@ -46,7 +47,6 @@ min-height: 950px;
 #splash{
 
   margin-top: 50px;
-  padding-top: 15%;
   padding-bottom: 50px;
   color: #fff;
   font-size: 3em;
