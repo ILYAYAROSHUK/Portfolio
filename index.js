@@ -82,4 +82,4 @@
         $("body").removeClass("nature-on");
     });
 
-})(jQuery); 
+})(jQuery);
